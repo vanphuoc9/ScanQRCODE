@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\nckh\ScanQRCODE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6f415fe648cb802be19f43dcbd66536bc33e4922">
+        <dex dex="E:\nckh\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_76719feaf6fd4c611da9b6ddf4a4b906c08d6edc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\nckh\ScanQRCODE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\nckh\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4bd732b3c0880a44607c40e057baab2804fc3fc6\classes.dex" />
+    </item>
+
+</items>

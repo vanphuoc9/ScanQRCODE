@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.holoc.scanqrcode.activity.admin.XemDanhSachDangKyActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolBarXemDanhSachDangKy"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/colorPrimaryDark"
+        app:titleTextColor="@color/zxing_status_text"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="-129dp" />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btn_themsvdk"
+            android:layout_width="52dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="300sp"
+            android:layout_marginTop="400sp"
+
+            android:background="@android:drawable/stat_notify_more"
+
+            android:src="@android:drawable/ic_menu_add" />
+
+        <ListView
+            android:id="@+id/lvdsdk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp" />
+    </FrameLayout>
+</LinearLayout>
