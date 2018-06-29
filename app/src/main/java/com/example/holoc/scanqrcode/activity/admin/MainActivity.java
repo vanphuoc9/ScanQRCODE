@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         AnhXa();
         // Tạo action bar
         Actionbar();
-        /// phuoc
+        /// phuoc llllg
 //        CatchChonItemListViewMenu();
 //        CatchChonITemListVIewSetting();
 //
